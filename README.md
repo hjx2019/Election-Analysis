@@ -40,3 +40,5 @@ For any election data, having the second column as Region name, and the third co
 
 ### Refactoring for Condition II
 If there's no county/region information, this code could also reusable. From line94 to line121, all the County analysis should be removed. As well as line 89 (f"County Votes:\n") should be removed as well.
+
+![image](https://user-images.githubusercontent.com/48306359/125553105-a77b6470-5f4f-4cdc-9660-ca9857e22e9e.png)
