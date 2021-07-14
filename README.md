@@ -15,6 +15,10 @@ Which county had the largest number of votes?
 Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
+![image](https://user-images.githubusercontent.com/48306359/125550133-75b0ff7f-039e-4d42-83c5-82a94b108359.png)
+
+
+
 Election Results
 -------------------------
 Total Votes: 369,711
